@@ -11,3 +11,4 @@ go onur go
 goy goy
 
 agent output
+run bary run
