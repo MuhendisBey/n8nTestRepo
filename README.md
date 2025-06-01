@@ -12,3 +12,4 @@ goy goy
 
 n8n mk9sw-43 epic test
 asd
+assignee is not null: MK9SW-43 Update
