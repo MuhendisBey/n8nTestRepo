@@ -15,3 +15,4 @@ asd
 assignee is not null: MK9SW-43 Update
 assigne is not null for sure
 run agent run
+go agent go
